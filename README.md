@@ -6,7 +6,8 @@ Il presente progetto è un handler wso2esb che permette di gestire le richiese i
 - deploy jar in repository/components/lib
 - aggiungere al file repository/conf/synapse-handlers.xml la seguente configurazione
 
-```<handlers>
+```
+<handlers>
      <handler name = "classname"class="package.classname"/>
 </handlers>
 ```
